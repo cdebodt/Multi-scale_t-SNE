@@ -51,8 +51,7 @@ and/or as:
  author={de Bodt, C. and Mulders, D. and Verleysen, M. and Lee, J. A.}, 
  booktitle={ESANN}, 
  pages={123--128}, 
- year={2018} 
-}
+ year={2018}}
 ```
 
 ## Running 
@@ -92,7 +91,7 @@ The documentations of the functions describe their parameters. The demo shows ho
 
 - Ms t-SNE: multi-scale t-SNE.
 
-
+## Related codes
 Note that further implementations are also available [here](https://github.com/cdebodt/Fast_Multi-scale_NE). They provide python codes for: 
 
 - multi-scale SNE, which has a O(N**2 log(N)) time complexity, where N is the number of data points;
